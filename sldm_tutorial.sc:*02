@@ -44,7 +44,7 @@
 [nop]
 [nop]
 [nop]
-　――この街は本当に酷いと思う。
+　English patch
 [wait cond="kag.autoMode  ==  '1'  &&  tf.debugMode  ==  '0' " time=500]
 [ws cond="kag.autoMode  ==  '1'  &&  tf.debugMode  ==  '0' " buf=0]
 [p]
